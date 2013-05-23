@@ -28,7 +28,7 @@ Installation
 * no Magento existing file is modified.
 * clear cache and enjoy 
 
-After installation you have the ability to use more review summary templates as defined in app/code/local/ReviewSummaryTemplate/Block/Helper.php.
+After installation you have the ability to use more review summary templates as defined in app/code/local/Egam/ReviewSummaryTemplate/Block/Helper.php.
 
 Use
 ------------
@@ -39,6 +39,9 @@ Use
 - now copy template/review/helper/summary.phtml to template/review/helper/summary_aggregate.pthml and add your structured data.
 - enjoy
 
+When you want to create and call more review summary templates just add them to app/code/local/Egam/ReviewSummaryTemplate/Block/Helper.php
+
+
 Copyright
 ------------
-Magento ReviewSummaryTemplates Extension is licensed under Open Software License ("OSL") v. 3.0
+Magento Egam_ReviewSummaryTemplates Extension is licensed under Open Software License ("OSL") v. 3.0
