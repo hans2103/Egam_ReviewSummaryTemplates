@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<Egam_ReviewSummaryTemplates>
+			<version>1.0.0</version>
+		</Egam_ReviewSummaryTemplates>
+	</modules>
+	<global>
+		<blocks>
+			<review>
+				<rewrite>
+					<helper>Egam_ReviewSummaryTemplates_Block_Helper</helper>
+				</rewrite>
+			</review>
+		</blocks>
+	</global>
+</config>
