@@ -43,9 +43,8 @@ When you want to create and call more review summary templates just add them to 
 
 Credits
 -----------
-* "A child can do the laundry"
-* Arjen Miedema for creating this simple Magento extension based on...
-* Fontis blogpost "Customised Magento review summary" http://www.fontis.com.au/blog/magento/customised-review-summary
+* Arjen Miedema for creating this simple Magento extension based on the Fontis.com blogpost.
+* Fontis.com blogpost "Customised Magento review summary" http://www.fontis.com.au/blog/magento/customised-review-summary
 
 Copyright
 ------------
