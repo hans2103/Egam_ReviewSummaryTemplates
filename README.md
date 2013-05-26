@@ -1,4 +1,4 @@
-ReviewSummaryTemplates
+Egam_ReviewSummaryTemplates
 ======================
 
 This extension extends Mage_Review_Block_Helper to define more templates for the review summary. 
