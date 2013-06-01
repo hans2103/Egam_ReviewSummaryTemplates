@@ -1,3 +1,3 @@
-app/code/local/Egam/ReviewSummaryTemplates app/code/local/Egam/ReviewSummaryTemplates
+app/code/local/Hans2103/ReviewSummaryTemplates app/code/local/Hans2103/ReviewSummaryTemplates
 app/design/frontend/base/default/template/review/helper/summary_aggregate.phtml app/design/frontend/base/default/template/review/helper/summary_aggregate.phtml
-app/etc/modules/Egam_ReviewSummaryTemplates.xml app/etc/modules/Egam_ReviewSummaryTemplates.xml
+app/etc/modules/Hans2103_ReviewSummaryTemplates.xml app/etc/modules/Hans2103_ReviewSummaryTemplates.xml
