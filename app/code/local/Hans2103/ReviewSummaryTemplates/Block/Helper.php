@@ -1,6 +1,6 @@
 <?php
 
-class Egam_ReviewSummaryTemplates_Block_Helper extends Mage_Review_Block_Helper
+class Hans2103_ReviewSummaryTemplates_Block_Helper extends Mage_Review_Block_Helper
 {
 	protected $_availableTemplates = array(
         'default'   => 'review/helper/summary.phtml',

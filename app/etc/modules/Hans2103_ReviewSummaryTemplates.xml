@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <config>
 	<modules>
-		<Egam_ReviewSummaryTemplates>
+		<Hans2103_ReviewSummaryTemplates>
 			<active>true</active>
 			<codePool>local</codePool>
 			<depends>
 				<Mage_Review />
 			</depends>
-		</Egam_ReviewSummaryTemplates>
+		</Hans2103_ReviewSummaryTemplates>
 	</modules>
 </config>
