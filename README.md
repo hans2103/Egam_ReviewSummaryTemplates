@@ -36,7 +36,7 @@ Use
 - find: <?php echo $this->getReviewsSummaryHtml($_product, false, true)?>
 - change by: <?php echo $this->getReviewsSummaryHtml($_product, 'aggregate', true)?>
 - save&close
-- now copy template/review/helper/summary.phtml to template/review/helper/summary_aggregate.pthml and add your structured data.
+- now copy template/review/helper/summary.phtml to template/review/helper/summary_aggregate.phtml and add your structured data.
 - enjoy
 
 When you want to create and call more review summary templates just add them to app/code/local/Hans2103/ReviewSummaryTemplate/Block/Helper.php
