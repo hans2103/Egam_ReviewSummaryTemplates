@@ -25,15 +25,16 @@ Installation
 ------------
 * Download the source code and copy the files in the corresponding Magento folders; 
 * mind that you merge the directories. Do not replace the existing directories. :-)
-* no Magento existing file is modified.
+* no Magento existing file is modified
 * clear cache and enjoy 
 
 
-* installation from CLI
+
+installation from CLI
 * cd app/ && wget -O - https://github.com/hans2103/Hans2103_ReviewSummaryTemplates/tarball/master/ | tar -zxvf - --exclude README.md --strip-components 1
 
 
-* installation with modman
+installation with modman
 * modman clone git@github.com:hans2103/Hans2103_ReviewSummaryTemplates.git
 
 After installation you have the ability to use more review summary templates as defined in app/code/local/Hans2103/ReviewSummaryTemplate/Block/Helper.php.
