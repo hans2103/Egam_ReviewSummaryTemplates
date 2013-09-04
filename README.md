@@ -31,7 +31,7 @@ Installation
 
 
 installation from CLI
-* cd app/ && wget -O - https://github.com/hans2103/Hans2103_ReviewSummaryTemplates/tarball/master/ | tar -zxvf - --exclude README.md --strip-components 1
+* wget -O - https://github.com/hans2103/Hans2103_ReviewSummaryTemplates/tarball/master/ | tar -zxvf - --exclude README.md --strip-components 1
 
 
 installation with modman
