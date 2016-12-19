@@ -1,16 +1,17 @@
 {
-  "name": "genmato/core",
+  "name": "hans2103/reviewsummarytemplates",
+  "license": "GPL-3.0",
   "type": "magento-module",
-  "description": "Genmato Core module used as base module for other Genmato extension for Magento 1.x",
-  "homepage":"https://github.com/Genmato/Core",
-  "license": "OSL-3.0",
+  "description": "Magento extension ReviewSummaryTemplates. To define more Review Summary templates.",
+  "homepage": "https://github.com/hans2103/Hans2103_ReviewSummaryTemplates",
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  },
   "authors": [
     {
-      "name":"Genmato BV",
-      "email": "support@genmato.com"
+      "name": "Hans Kuijpers",
+      "email": "support@hkweb.nl",
+      "role": "Author/Maintainer"
     }
-  ],
-  "require": {
-    "php": "~5.5.0|~5.6.0|~7.0.0"
-  }
+  ]
 }
